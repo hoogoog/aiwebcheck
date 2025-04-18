@@ -1,5 +1,6 @@
 # aiwebcheck
 AI网站体检系统，ai网站渗透测试系统
+![Example Image](5.png "An example image")
 
 #AI网站安全体检系统使用指南
 本系统采用先进的AI技术，支持腾讯混元和DeepSeek两种大模型，为您的网站提供全面的安全检测服务。
